@@ -9,7 +9,7 @@ import (
 	"github.com/ipfs/go-cid"
 )
 
-// Channel represents a exchange channel within which blocks can be exchanged
+// Channel represents an exchange channel within which blocks can be exchanged
 // possibly with access control.
 type Channel string
 
