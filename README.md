@@ -1,6 +1,6 @@
 # go-ipfs-exchange-interface
 
-DAOT Labs's fork of [ipfs/go-ipfs-exchange-interface](https://github.com/ipfs/go-ipfs-exchange-interface).
+DAOT Labs' fork of [ipfs/go-ipfs-exchange-interface](https://github.com/ipfs/go-ipfs-exchange-interface).
 
 [![](https://img.shields.io/badge/made%20by-Protocol%20Labs-blue.svg?style=flat-square)](http://ipn.io)
 [![](https://img.shields.io/badge/project-DAOT%20Labs-red.svg?style=flat-square)](http://github.com/daotl)
