@@ -1,6 +1,6 @@
 module github.com/daotl/go-ipfs-exchange-interface
 
-go 1.12
+go 1.15
 
 require (
 	github.com/ipfs/go-block-format v0.0.3
