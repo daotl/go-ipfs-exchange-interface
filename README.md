@@ -2,6 +2,8 @@
 
 DAOT Labs' fork of [ipfs/go-ipfs-exchange-interface](https://github.com/ipfs/go-ipfs-exchange-interface).
 
+This fork add suports for [IPLD channels](https://github.com/daotl/go-ipld-channel).
+
 [![](https://img.shields.io/badge/made%20by-Protocol%20Labs-blue.svg?style=flat-square)](http://ipn.io)
 [![](https://img.shields.io/badge/project-DAOT%20Labs-red.svg?style=flat-square)](http://github.com/daotl)
 [![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
